@@ -2,16 +2,16 @@
   "announcements": [
     {
       "id": "ann-1",
-      "text": "di Gereja.",
+      "text": "Rapat DPP Pleno Minggu, 19 Juli 2026 Pkl. 10.00 - 16.00 di Gedung Bumi Silih Asih Keuskupan Bandung Seluruh Anggota Pleno dan Para Ketua Lingkungan diundang hadir",
       "type": "info",
       "active": true,
-      "createdAt": "2026-07-07T03:25:21.760Z"
+      "createdAt": "2026-07-19T03:25:21.760Z"
     }
   ],
   "agenda": [
     {
       "id": "ag-1",
-      "title": "Pelaksanaan Pelayanan Perubahan Data Administrasi Kependudukan & Catatan Sipil",
+      "title": "Perayaan Ekaristi Hari Kakek Nenek & Lansia Sedunia VI",
       "content": "Paroki Santo Fransiskus Xaverius Dayeuhkolot bekerja sama dengan Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabupaten Bandung akan menyelenggarakan pelayanan langsung administrasi kependudukan (KTP, KK, Akta Lahir, dll.) bagi jemaat gereja pada hari Sabtu, 14 Maret 2026 mulai pukul 09.00 WIB hingga selesai. Silakan membawa dokumen asli dan fotokopi berkas pendukung Anda ke aula gereja.",
       "date": "2026-03-14",
       "imageUrl": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?auto=format&fit=crop&w=800&q=80",
