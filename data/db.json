@@ -15,7 +15,7 @@
       "content": "Perayaan Ekaristi Hari Kakek Nenek & Lansia Sedunia VI Paroki St. Fransiskus Xaverius, Dayeuhkolot Minggu, 26 Juli 2026 Pkl. 10.00 Para Kakek-Nenek dan Lansia diundang hadir dan mendaftar melalui ketua lingkungan.",
       "date": "2026-03-26",
       "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784244839/Pengumuman_Gereja_Dakol_1_vgb8wz.jpg",
-      "category": "pengumuman"
+      "category": "agenda"
     },
     {
       "id": "ag-2",
@@ -23,7 +23,7 @@
       "content": "Pendaftaran Pelajaran Agama Katolik Tingkat SD - SMA Paroki St. Fransiskus Xaverius, Dayeuhkolot Pendaftaran dapat dilakukan dengan mengisi formulir di Sekretariat, Pendaftaran paling lambat tgl 26 Juli 2026",
       "date": "2026-07-26",
       "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784244839/Pengumuman_Gereja_Dakol_2_vhmzt5.jpg",
-      "category": "agenda"
+      "category": "pengumuman"
     },
     {
       "id": "ag-3",
@@ -31,7 +31,7 @@
       "content": "Rapat DPP Pleno Minggu, 19 Juli 2026 Pkl. 10.00 - 16.00 di Gedung Bumi Silih Asih Keuskupan Bandung Seluruh Anggota Pleno dan Para Ketua Lingkungan diundang hadir",
       "date": "2026-07-19",
       "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784245161/Pengumuman_Gereja_Dakol_eslhuz.jpg",
-      "category": "berita"
+      "category": "agenda"
     },
     {
       "id": "ag-4",
@@ -40,6 +40,22 @@
       "date": "2026-07-01",
       "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783488582/ChatGPT-Image-21-Feb-2026-00.13.02-1-1024x683_hs41zx.png",
       "category": "katekese"
+    },
+    {
+      "id": "ag-5",
+      "title": "Weekend Marriage Encounter 175",
+      "content": "Weekend Marriage Encounter 175 di Pondok Mitra Pratista Tanggal 24-26 Juli 2026",
+      "date": "2026-07-24",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784244838/Pengumuman_Gereja_Dakol_3_g2nfqn.jpg",
+      "category": "agenda"
+    },
+    {
+      "id": "ag-6",
+      "title": "Berbagi Donasi di Panti Wreda Karitas, Cimahi",
+      "content": "Misdinar Paroki Santo Fransiskus Xaverius mengajak umnat sekalian untuk b erbagi Donasi di Panti Wreda Karitas, Cimahi",
+      "date": "2026-07-19",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784244838/Pengumuman_Gereja_Dakol_4_iklbxe.jpg",
+      "category": "pengumuman"
     }
   ],
   "dpp": [
