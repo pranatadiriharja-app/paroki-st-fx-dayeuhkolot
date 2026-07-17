@@ -132,51 +132,14 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
       "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=400&q=80"
     ]
   },
-  {
-    id: "bia",
-    name: "Bina Iman Anak (BIA)",
-    category: "Pembinaan",
-    shortDesc: "Pendampingan iman usia dini secara kreatif, gembira, dan sesuai ajaran Gereja Katolik.",
-    description: "Bina Iman Anak (BIA) mendampingi anak-anak paroki usia balita hingga sekolah dasar kelas 3 untuk mengenal kasih Yesus Kristus melalui cerita Alkitab, lagu pujian, gerak, tari, serta permainan edukatif.",
-    imageUrl: "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&w=600&q=80",
-    bannerUrl: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=1200&q=80",
-    leaderName: "Yuliana Kartika",
-    viceLeaderName: "Clara Dian",
-    secretaryName: "Anastasia Devi",
-    treasurerName: "Hanna Novita",
-    advisorName: "Sr. Clara, FMM",
-    phone: "0814-4556-6778",
-    email: "bia.dayeuhkolot@gmail.com",
-    schedule: "Setiap Hari Minggu, Pukul 08.30 WIB (Paralel dengan Misa Kedua)",
-    location: "Gedung Sekolah Minggu / Area Taman Gereja",
-    history: "Dipelopori oleh para suster dan mudika paroki pada tahun 2000 untuk membantu para orang tua agar anak-anak mereka dapat beribadat dengan suasana menyenangkan saat misa hari raya berlangsung.",
-    vision: "Menanamkan benih iman kristiani yang ceria, penuh kasih, dan taat kepada Tuhan sejak usia dini.",
-    mission: [
-      "Mengemas kisah-kisah Kitab Suci ke dalam metode yang mudah dipahami anak.",
-      "Melatih anak membiasakan diri berdoa, berbagi, dan bersyukur setiap hari.",
-      "Membantu anak mengenali tata perayaan ekaristi secara bertahap.",
-      "Menyelenggarakan kegiatan kreatif yang memicu kecerdasan spiritual anak."
-    ],
-    activities: [
-      "Ibadat sabda anak mingguan (menceritakan Injil melalui boneka tangan).",
-      "Peringatan Hari Anak Misioner Sedunia (baksos celengan misioner).",
-      "Lomba mewarnai, menggambar kisah Alkitab, dan menyanyi lagu rohani.",
-      "Kunjungan edukatif ke panti asuhan anak yatim."
-    ],
-    gallery: [
-      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=400&q=80",
-      "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&w=400&q=80",
-      "https://images.unsplash.com/photo-1503941090002-97c996f2a192?auto=format&fit=crop&w=400&q=80"
-    ]
-  },
-  {
+    {
     id: "koor",
     name: "Paduan Santo Fransiskus Xaverius (Koor Paroki)",
     category: "Liturgi",
     shortDesc: "Melayani keindahan dan kemuliaan liturgi perayaan ekaristi melalui keindahan musik dan pujian.",
     description: "Cantate Domino adalah paduan suara utama paroki yang bertugas menyanyikan lagu-lagu liturgis bermutu tinggi, melatih pemazmur-pemazmur handal, serta mengiringi perayaan ekaristi besar gereja dengan harmoni suara yang memukau.",
-    imageUrl: "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=600&q=80",
-    bannerUrl: "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784269028/efsgsegegegsegdg_v0edo4.jpg",
+    bannerUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784269028/efsgsegegegsegdg_v0edo4.jpg",
     leaderName: "Cecilia Indriati",
     viceLeaderName: "FX. Nugroho",
     secretaryName: "Bernadetta Rini",
@@ -204,6 +167,43 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
       "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=400&q=80",
       "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=400&q=80",
       "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=400&q=80"
+    ]
+  },
+  {
+    id: "bia",
+    name: "Bina Iman Anak (BIA)",
+    category: "Pembinaan",
+    shortDesc: "Pendampingan iman usia dini secara kreatif, gembira, dan sesuai ajaran Gereja Katolik.",
+    description: "Bina Iman Anak (BIA) mendampingi anak-anak paroki usia balita hingga sekolah dasar kelas 3 untuk mengenal kasih Yesus Kristus melalui cerita Alkitab, lagu pujian, gerak, tari, serta permainan edukatif.",
+    imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784268853/ererere_gqhr7e.png",
+    bannerUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784268853/ererere_gqhr7e.png",
+    leaderName: "Yuliana Kartika",
+    viceLeaderName: "Clara Dian",
+    secretaryName: "Anastasia Devi",
+    treasurerName: "Hanna Novita",
+    advisorName: "Sr. Clara, FMM",
+    phone: "0814-4556-6778",
+    email: "bia.dayeuhkolot@gmail.com",
+    schedule: "Setiap Hari Minggu, Pukul 08.30 WIB (Paralel dengan Misa Kedua)",
+    location: "Gedung Sekolah Minggu / Area Taman Gereja",
+    history: "Dipelopori oleh para suster dan mudika paroki pada tahun 2000 untuk membantu para orang tua agar anak-anak mereka dapat beribadat dengan suasana menyenangkan saat misa hari raya berlangsung.",
+    vision: "Menanamkan benih iman kristiani yang ceria, penuh kasih, dan taat kepada Tuhan sejak usia dini.",
+    mission: [
+      "Mengemas kisah-kisah Kitab Suci ke dalam metode yang mudah dipahami anak.",
+      "Melatih anak membiasakan diri berdoa, berbagi, dan bersyukur setiap hari.",
+      "Membantu anak mengenali tata perayaan ekaristi secara bertahap.",
+      "Menyelenggarakan kegiatan kreatif yang memicu kecerdasan spiritual anak."
+    ],
+    activities: [
+      "Ibadat sabda anak mingguan (menceritakan Injil melalui boneka tangan).",
+      "Peringatan Hari Anak Misioner Sedunia (baksos celengan misioner).",
+      "Lomba mewarnai, menggambar kisah Alkitab, dan menyanyi lagu rohani.",
+      "Kunjungan edukatif ke panti asuhan anak yatim."
+    ],
+    gallery: [
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1485546246426-74dc88dec4d9?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1503941090002-97c996f2a192?auto=format&fit=crop&w=400&q=80"
     ]
   }
 ];
