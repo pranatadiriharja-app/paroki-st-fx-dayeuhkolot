@@ -52,8 +52,8 @@ export default function DewanPastoralComp({ dpp }: DewanPastoralCompProps) {
       role: "WAKIL KETUA DPP 1",
       subRole: "Dewan Pengurus Harian",
       category: "wakil",
-      name: "Ignasius Budi Prasetyo",
-      imageUrl: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
+      name: "Redemptus Wasis",
+      imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784268104/2222_chrlai.png",
       jobdesk: "Mengkoordinasikan program kerja bidang Liturgi, Pewartaan, dan Persaudaraan. Berperan aktif menyelaraskan rencana anggaran belanja (RAPB) demi tercapainya kemandirian umat."
     },
     {
