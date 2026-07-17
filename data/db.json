@@ -2,35 +2,35 @@
   "announcements": [
     {
       "id": "ann-1",
-      "text": "di Gereja.",
+      "text": "Rapat DPP Pleno Minggu, 19 Juli 2026 Pkl. 10.00 - 16.00 di Gedung Bumi Silih Asih Keuskupan Bandung Seluruh Anggota Pleno dan Para Ketua Lingkungan diundang hadir",
       "type": "info",
       "active": true,
-      "createdAt": "2026-07-07T03:25:21.760Z"
+      "createdAt": "2026-07-19T03:25:21.760Z"
     }
   ],
   "agenda": [
     {
       "id": "ag-1",
-      "title": "Pelaksanaan Pelayanan Perubahan Data Administrasi Kependudukan & Catatan Sipil",
-      "content": "Paroki Santo Fransiskus Xaverius Dayeuhkolot bekerja sama dengan Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabupaten Bandung akan menyelenggarakan pelayanan langsung administrasi kependudukan (KTP, KK, Akta Lahir, dll.) bagi jemaat gereja pada hari Sabtu, 14 Maret 2026 mulai pukul 09.00 WIB hingga selesai. Silakan membawa dokumen asli dan fotokopi berkas pendukung Anda ke aula gereja.",
-      "date": "2026-03-14",
-      "imageUrl": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?auto=format&fit=crop&w=800&q=80",
+      "title": "Perayaan Ekaristi Hari Kakek Nenek & Lansia Sedunia VI",
+      "content": "Perayaan Ekaristi Hari Kakek Nenek & Lansia Sedunia VI Paroki St. Fransiskus Xaverius, Dayeuhkolot Minggu, 26 Juli 2026 Pkl. 10.00 Para Kakek-Nenek dan Lansia diundang hadir dan mendaftar melalui ketua lingkungan.",
+      "date": "2026-07-26",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784244839/Pengumuman_Gereja_Dakol_1_vgb8wz.jpg",
       "category": "pengumuman"
     },
     {
       "id": "ag-2",
-      "title": "Pendaftaran Bina Iman Anak (BIA) & Bina Iman Remaja (BIR) Tahun Ajaran Baru",
-      "content": "Telah dibuka pendaftaran bagi anak-anak dan remaja Paroki Dayeuhkolot untuk bergabung dengan komunitas Bina Iman Anak (BIA) dan Bina Iman Remaja (BIR). Kegiatan pembinaan iman ini diadakan setiap hari Minggu setelah perayaan Ekaristi pagi. Orang tua diharapkan segera mendaftarkan putra-putrinya melalui e-formulir atau langsung ke koordinator BIA/BIR di pendopo gereja.",
-      "date": "2026-07-12",
-      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=800&q=80",
+      "title": "Rapat DPP Pleno",
+      "content": "Rapat DPP Pleno Minggu, 19 Juli 2026 Pkl. 10.00 - 16.00 di Gedung Bumi Silih Asih Keuskupan Bandung Seluruh Anggota Pleno dan Para Ketua Lingkungan diundang hadir",
+      "date": "2026-07-19",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784245161/Pengumuman_Gereja_Dakol_eslhuz.jpg",
       "category": "agenda"
     },
     {
       "id": "ag-3",
-      "title": "Kerja Bakti Sosial Lingkungan dan Kebersihan Area Kompleks Gereja",
-      "content": "Dalam rangka menyambut pesta pelindung Paroki Santo Fransiskus Xaverius, Dewan Pastoral Paroki mengundang perwakilan umat dari seluruh Lingkungan untuk berpartisipasi dalam kegiatan kerja bakti kebersihan dan penghijauan area gereja. Harap membawa peralatan kebersihan masing-masing. Kegiatan dimulai pukul 08.00 WIB.",
-      "date": "2026-07-19",
-      "imageUrl": "https://images.unsplash.com/photo-1559027615-cd4451a9962f?auto=format&fit=crop&w=800&q=80",
+      "title": "Pendaftaran Pelajaran Agama Katolik Tingkat SD - SMA",
+      "content": "Pendaftaran Pelajaran Agama Katolik Tingkat SD - SMA Paroki St. Fransiskus Xaverius, Dayeuhkolot Pendaftaran dapat dilakukan dengan mengisi formulir di Sekretariat, Pendaftaran paling lambat tgl 26 Juli 2026",
+      "date": "2026-07-26",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784244839/Pengumuman_Gereja_Dakol_2_vhmzt5.jpg",
       "category": "berita"
     },
     {
@@ -38,7 +38,7 @@
       "title": "Katekese Pastor: Memaknai Hidup Ekaristis dalam Keluarga Katolik",
       "content": "Saudara-saudari terkasih, hidup berkeluarga adalah altar persembahan harian kita. Di dalam rumah tangga kita belajar memecah-mecah ego kita, seperti Kristus yang memecah Tubuh-Nya bagi kita. Hidup Ekaristis berarti kita siap menjadi berkat yang dipecah dan dibagikan bagi sesama anggota keluarga kita sehari-hari, melalui kesabaran, kerendahan hati, dan pengampunan tulus.",
       "date": "2026-07-01",
-      "imageUrl": "https://images.unsplash.com/photo-1438211317305-6a2410a644b8?auto=format&fit=crop&w=800&q=80",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783488582/ChatGPT-Image-21-Feb-2026-00.13.02-1-1024x683_hs41zx.png",
       "category": "katekese"
     }
   ],
@@ -48,20 +48,20 @@
       "role": "Pastor / Romo Paroki",
       "category": "pimpinan",
       "name": "RD. Stefanus Tanto Agustiana",
-      "imageUrl": "/pastor_stefanus_1783397946213.jpg"
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783488731/pastor_paroki_yxobj1.png"
     },
     {
       "id": "dpp-2",
       "role": "Pastor / Romo Vikaris",
       "category": "pimpinan",
       "name": "RD. Antonius Jonmedi Tarigan",
-      "imageUrl": "/pastor_antonius_1783397963388.jpg"
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783488770/pastor_vikaris_paroki_p32rqx.png"
     },
     {
       "id": "dpp-3",
       "role": "WAKIL KETUA DPP 1",
       "category": "wakil",
-      "name": "Drs. Ignasius Budi Prasetyo",
+      "name": "Ignasius Budi Prasetyo",
       "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80"
     },
     {
@@ -131,16 +131,16 @@
   "lingkungan": [
     {
       "id": "l-1",
-      "name": "Lingkungan Santo Fransiskus Asisi",
-      "leader": "Yulius Sukardi",
+      "name": "Lingkungan Santo Damasus",
+      "leader": "Roymondus Aria Pranata",
       "phone": "081234567890",
-      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
-      "viceLeader": "Benediktus Anton",
-      "secretary": "Theresia Sulastri",
-      "treasurer": "Lucia Indah",
-      "kkCount": 42,
-      "groupImageUrl": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80",
-      "notes": "Lingkungan aktif di perbatasan Dayeuhkolot dengan jadwal doa rosario bergilir setiap bulan Mei dan Oktober, ibadat sabda berkala tiap hari Jumat pertama, serta keterlibatan aktif koor di Gereja Paroki."
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784259147/1_pflbfj.png",
+      "viceLeader": "Chrispianus",
+      "secretary": "Robert",
+      "treasurer": "Cicilia",
+      "kkCount": 60,
+      "groupImageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1784259147/WhatsApp_Image_2026-07-17_at_10.32.11_utvhyk.jpg",
+      "notes": "Lingkungan aktif di perbatasan Dayeuhkolot dengan jadwal doa rosario bergilir setiap bulan Mei dan Oktober, serta keterlibatan aktif koor di Gereja Paroki."
     },
     {
       "id": "l-2",
@@ -359,14 +359,28 @@
       "title": "Minggu Paskah Pkl. 10.00 (05.04.2026)",
       "date": "05.04.2026",
       "googlePhotosUrl": "https://photos.app.goo.gl/mnX83sEbG9pJvrfa9",
-      "imageUrl": "/doc_paskah.jpg"
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487247/DSC00173_ghqge6.jpg"
     },
     {
       "id": "doc-2",
       "title": "Sabtu Suci Pkl. 19.00 (04.04.2026)",
       "date": "04.04.2026",
       "googlePhotosUrl": "https://photos.app.goo.gl/pUoGvTTvWAwTqEYP6",
-      "imageUrl": "/doc_sabtusuci.jpg"
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487377/DSC09856_xiwnbk.jpg"
+    },
+    {
+      "id": "doc-3",
+      "title": "Jumat Agung Pkl. 18.30 (03.04.2026)",
+      "date": "03.04.2026",
+      "googlePhotosUrl": "https://photos.google.com/share/AF1QipMrV2DpECSX6NfTyPAJWGKT4Q4Hm_-lnj6w0zeeHMOCjpCPsQoRNRBBNVZT9GApAA?pli=1&key=aDhMUjVXakVzVnlNVFJSNXdKUHlGX0JNb19KclJR",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487703/ANNO9975_bgynfb.jpg"
+    }
+        {
+      "id": "doc-4",
+      "title": "Minggu Palma Pkl. 18.30 (23.03.2026)",
+      "date": "23.03.2026",
+      "googlePhotosUrl": "https://photos.google.com/share/AF1QipMwZ3K8LGcRRJga5FKQsDbB7LL0ZXTUveB84hj0wLByaT38MzGxDfbt1C951VlHHg?key=ckgzNTlBZ0dDaFRMcUQtUXBfNVJfbmNON3N6TXZR",
+      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487884/DSC09155_fvmrt5.jpg"
     }
   ]
 }
