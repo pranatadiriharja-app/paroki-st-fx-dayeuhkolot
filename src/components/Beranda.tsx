@@ -47,7 +47,7 @@ export default function Beranda({ announcements, agenda, onNavigateToTab }: Bera
           {/* EDIT FOTO BACKGROUND GEREJA DI BAWAH INI (Ganti dengan link Cloudinary Anda) */}
           <div className="absolute inset-0 z-0">
             <img 
-              src="https://images.unsplash.com/photo-1478147427282-58a87a120781?auto=format&fit=crop&w=1200&q=80" 
+              src="https://res.cloudinary.com/ugnqb757/image/upload/v1783493620/Tampak_Depan_Gereja_Santo_Fransiskus_Xaverius_Dayeuhkolot__2025_f6wa3p.jpg" 
               alt="Gereja Paroki"
               className="w-full h-full object-cover opacity-20 group-hover:scale-105 transition-transform duration-700 select-none mix-blend-overlay"
               referrerPolicy="no-referrer"
