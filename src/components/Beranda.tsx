@@ -184,7 +184,7 @@ export default function Beranda({ announcements, agenda, onNavigateToTab }: Bera
               <div className="flex justify-between items-end border-b border-dashed border-[#E5E3DB] pb-3">
                 <div>
                   <p className="font-bold text-sm text-[#2D3E50]">Jumat Pertama</p>
-                  <p className="text-[11px] text-[#7C7A74]">Perayaan Ekaristi dan Penghormatan Sakramen Mahkudus</p>
+                  <p className="text-[11px] text-[#7C7A74]">Misa dan Penghormatan Sakramen Mahkudus</p>
                 </div>
                 <p className="font-mono text-sm font-bold text-[#D4AF37] bg-[#D4AF37]/10 px-2 py-0.5 rounded">18:00 WIB</p>
               </div>
