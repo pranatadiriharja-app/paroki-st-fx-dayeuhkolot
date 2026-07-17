@@ -30,7 +30,7 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
     shortDesc: "Wadah persekutuan, kreativitas, dan pembinaan iman bagi kaum muda katolik Paroki.",
     description: "Orang Muda Katolik (OMK) Paroki Santo Fransiskus Xaverius Dayeuhkolot adalah komunitas dinamis bagi pemuda-pemudi Katolik untuk mengekspresikan iman, bakat, dan semangat pelayanan sosial serta gerejani.",
     imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784185419/omk_hmnjhu.png",
-    bannerUrl: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1200&q=80",
+    bannerUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784268009/Untitled_jjsst0.png",
     leaderName: "Andreas Kurniawan",
     viceLeaderName: "Bernadetta Shinta",
     secretaryName: "Agnes Yulianti",
@@ -54,9 +54,9 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
       "Aksi sosial peduli lingkungan sekitar aliran sungai Citarum."
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=400&q=80",
-      "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=400&q=80",
-      "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=400&q=80"
+      "https://res.cloudinary.com/ugnqb757/image/upload/v1784268009/Untitled_jjsst0.png",
+      "https://res.cloudinary.com/ugnqb757/image/upload/v1784268009/Untitled_jjsst0.png",
+      "https://res.cloudinary.com/ugnqb757/image/upload/v1784268009/Untitled_jjsst0.png"
     ]
   },
   {
@@ -65,8 +65,8 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
     category: "Pelayanan",
     shortDesc: "Organisasi kemasyarakatan wanita Katolik yang memperjuangkan nilai kemanusiaan dan keadilan sosial.",
     description: "WKRI Cabang Santo Fransiskus Xaverius Dayeuhkolot merupakan wadah perjuangan wanita Katolik dalam pengabdian kepada Gereja dan Negara melalui pelayanan kesejahteraan sosial, pendidikan keluarga, dan emansipasi wanita.",
-    imageUrl: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80",
-    bannerUrl: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267573/WhatsApp_Image_2026-07-17_at_12.52.32_pavjgr.jpg",
+    bannerUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267573/WhatsApp_Image_2026-07-17_at_12.52.32_pavjgr.jpg",
     leaderName: "Theresia Retno Setyowati",
     viceLeaderName: "Monica Sri Rahayu",
     secretaryName: "Christina Yeni",
@@ -91,7 +91,7 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
       "Bantuan sembako berkala 'Kasih Ibu' untuk keluarga prasejahtera."
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ugnqb757/image/upload/v1784267573/WhatsApp_Image_2026-07-17_at_12.52.32_pavjgr.jpg",
       "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
       "https://images.unsplash.com/photo-1531844113638-3a02c2e411b7?auto=format&fit=crop&w=400&q=80"
     ]
@@ -176,8 +176,8 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
     category: "Persekutuan",
     shortDesc: "Wadah doa pujian, penyembahan, dan pendalaman firman yang dipimpin oleh Roh Kudus.",
     description: "PDPKK mengajak umat menghidupkan kembali rahmat baptisan melalui pencurahan Roh Kudus. Karakteristik persekutuan doa kami dipenuhi nyanyian pujian meriah, khidmat, hening, karunia roh, serta kesaksian iman yang meneguhkan.",
-    imageUrl: "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=600&q=80",
-    bannerUrl: "https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=1200&q=80",
+    imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267989/WhatsApp_Image_2026-07-17_at_12.54.33_upntvx.jpg",
+    bannerUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267988/WhatsApp_Image_2026-07-17_at_12.54.01_dnkatd.jpg",
     leaderName: "Heny",
     viceLeaderName: "Aloysius Gunawan",
     secretaryName: "Christina Yeni",
@@ -201,7 +201,7 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
       "Malam puji-pujian (Praise & Worship) menyambut hari Pentakosta."
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ugnqb757/image/upload/v1784267988/WhatsApp_Image_2026-07-17_at_12.54.01_dnkatd.jpg",
       "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=400&q=80",
       "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=400&q=80"
     ]
