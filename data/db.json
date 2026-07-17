@@ -370,33 +370,19 @@
   "sacramentRegistrations": [],
   "suggestions": [],
   "dokumentasi": [
-    {
+  {
       "id": "doc-1",
       "title": "Minggu Paskah Pkl. 10.00 (05.04.2026)",
       "date": "05.04.2026",
       "googlePhotosUrl": "https://photos.app.goo.gl/mnX83sEbG9pJvrfa9",
-      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487247/DSC00173_ghqge6.jpg"
+      "imageUrl": "/doc_paskah.jpg"
     },
     {
       "id": "doc-2",
       "title": "Sabtu Suci Pkl. 19.00 (04.04.2026)",
       "date": "04.04.2026",
       "googlePhotosUrl": "https://photos.app.goo.gl/pUoGvTTvWAwTqEYP6",
-      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487377/DSC09856_xiwnbk.jpg"
-    },
-    {
-      "id": "doc-3",
-      "title": "Jumat Agung Pkl. 18.30 (03.04.2026)",
-      "date": "03.04.2026",
-      "googlePhotosUrl": "https://photos.google.com/share/AF1QipMrV2DpECSX6NfTyPAJWGKT4Q4Hm_-lnj6w0zeeHMOCjpCPsQoRNRBBNVZT9GApAA?pli=1&key=aDhMUjVXakVzVnlNVFJSNXdKUHlGX0JNb19KclJR",
-      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487703/ANNO9975_bgynfb.jpg"
-    },
-        {
-      "id": "doc-4",
-      "title": "Minggu Palma Pkl. 18.30 (23.03.2026)",
-      "date": "23.03.2026",
-      "googlePhotosUrl": "https://photos.google.com/share/AF1QipMwZ3K8LGcRRJga5FKQsDbB7LL0ZXTUveB84hj0wLByaT38MzGxDfbt1C951VlHHg?key=ckgzNTlBZ0dDaFRMcUQtUXBfNVJfbmNON3N6TXZR",
-      "imageUrl": "https://res.cloudinary.com/ugnqb757/image/upload/v1783487884/DSC09155_fvmrt5.jpg"
+      "imageUrl": "/doc_sabtusuci.jpg"
     }
   ]
 }
