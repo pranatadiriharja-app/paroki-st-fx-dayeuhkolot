@@ -97,6 +97,42 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
     ]
   },
   {
+    id: "pdpkk",
+    name: "Persekutuan Doa Pembaharuan Karismatik Katolik (PDPKK)",
+    category: "Persekutuan",
+    shortDesc: "Wadah doa pujian, penyembahan, dan pendalaman firman yang dipimpin oleh Roh Kudus.",
+    description: "PDPKK mengajak umat menghidupkan kembali rahmat baptisan melalui pencurahan Roh Kudus. Karakteristik persekutuan doa kami dipenuhi nyanyian pujian meriah, khidmat, hening, karunia roh, serta kesaksian iman yang meneguhkan.",
+    imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267989/WhatsApp_Image_2026-07-17_at_12.54.33_upntvx.jpg",
+    bannerUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267988/WhatsApp_Image_2026-07-17_at_12.54.01_dnkatd.jpg",
+    leaderName: "Heny",
+    viceLeaderName: "Aloysius Gunawan",
+    secretaryName: "Christina Yeni",
+    treasurerName: "Lucia Melly",
+    advisorName: "RD. Benedictus Hartono",
+    phone: "0821-4455-6677",
+    email: "pdpkk.dayeuhkolot@gmail.com",
+    schedule: "Setiap Hari Rabu Malam, Pukul 19.30 WIB",
+    location: "Aula Atas Gedung Pastoral",
+    history: "Didirikan sejak tahun 1997, PDPKK Dayeuhkolot merupakan salah satu kelompok doa karismatik tertua di Bandung Selatan. Menjadi oase penyegaran rohani di tengah kepenatan aktivitas sehari-hari.",
+    vision: "Melahirkan umat Katolik yang memiliki hubungan pribadi yang intim dengan Yesus Kristus, berkobar-kobar dalam sukacita Roh Kudus, dan aktif dalam perutusan gereja.",
+    mission: [
+      "Menyelenggarakan persekutuan doa berkala yang terbuka bagi seluruh umat.",
+      "Mengadakan seminar hidup baru dalam Roh (SHBDR) secara berkala.",
+      "Melatih pewarta-pewarta firman, pendoa syafaat, dan pemusik pujian karismatik.",
+      "Mendukung kegiatan doa lingkungan-lingkungan di paroki."
+    ],
+    activities: [
+      "Persekutuan doa mingguan (Pujian, Penyembahan, Firman, & Syafaat).",
+      "Seminar Hidup Baru Dalam Roh (SHBDR) tahunan.",
+      "Malam puji-pujian (Praise & Worship) menyambut hari Pentakosta."
+    ],
+    gallery: [
+      "https://res.cloudinary.com/ugnqb757/image/upload/v1784267988/WhatsApp_Image_2026-07-17_at_12.54.01_dnkatd.jpg",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=400&q=80"
+    ]
+  },
+  {
     id: "bia",
     name: "Bina Iman Anak (BIA)",
     category: "Pembinaan",
@@ -168,42 +204,6 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
       "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=400&q=80",
       "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=400&q=80",
       "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=400&q=80"
-    ]
-  },
-  {
-    id: "pdpkk",
-    name: "Persekutuan Doa Pembaharuan Karismatik Katolik (PDPKK)",
-    category: "Persekutuan",
-    shortDesc: "Wadah doa pujian, penyembahan, dan pendalaman firman yang dipimpin oleh Roh Kudus.",
-    description: "PDPKK mengajak umat menghidupkan kembali rahmat baptisan melalui pencurahan Roh Kudus. Karakteristik persekutuan doa kami dipenuhi nyanyian pujian meriah, khidmat, hening, karunia roh, serta kesaksian iman yang meneguhkan.",
-    imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267989/WhatsApp_Image_2026-07-17_at_12.54.33_upntvx.jpg",
-    bannerUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784267988/WhatsApp_Image_2026-07-17_at_12.54.01_dnkatd.jpg",
-    leaderName: "Heny",
-    viceLeaderName: "Aloysius Gunawan",
-    secretaryName: "Christina Yeni",
-    treasurerName: "Lucia Melly",
-    advisorName: "RD. Benedictus Hartono",
-    phone: "0821-4455-6677",
-    email: "pdpkk.dayeuhkolot@gmail.com",
-    schedule: "Setiap Hari Rabu Malam, Pukul 19.30 WIB",
-    location: "Aula Atas Gedung Pastoral",
-    history: "Didirikan sejak tahun 1997, PDPKK Dayeuhkolot merupakan salah satu kelompok doa karismatik tertua di Bandung Selatan. Menjadi oase penyegaran rohani di tengah kepenatan aktivitas sehari-hari.",
-    vision: "Melahirkan umat Katolik yang memiliki hubungan pribadi yang intim dengan Yesus Kristus, berkobar-kobar dalam sukacita Roh Kudus, dan aktif dalam perutusan gereja.",
-    mission: [
-      "Menyelenggarakan persekutuan doa berkala yang terbuka bagi seluruh umat.",
-      "Mengadakan seminar hidup baru dalam Roh (SHBDR) secara berkala.",
-      "Melatih pewarta-pewarta firman, pendoa syafaat, dan pemusik pujian karismatik.",
-      "Mendukung kegiatan doa lingkungan-lingkungan di paroki."
-    ],
-    activities: [
-      "Persekutuan doa mingguan (Pujian, Penyembahan, Firman, & Syafaat).",
-      "Seminar Hidup Baru Dalam Roh (SHBDR) tahunan.",
-      "Malam puji-pujian (Praise & Worship) menyambut hari Pentakosta."
-    ],
-    gallery: [
-      "https://res.cloudinary.com/ugnqb757/image/upload/v1784267988/WhatsApp_Image_2026-07-17_at_12.54.01_dnkatd.jpg",
-      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=400&q=80",
-      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=400&q=80"
     ]
   }
 ];
