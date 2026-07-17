@@ -32,7 +32,7 @@ export default function DewanPastoralComp({ dpp }: DewanPastoralCompProps) {
       subRole: "Ketua Umum",
       category: "pimpinan",
       name: "RD. Stefanus Tanto Agustiana",
-      imageUrl: "/pastor_stefanus_1783397946213.jpg",
+      imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1783488731/pastor_paroki_yxobj1.png",
       jobdesk: "Bertanggung jawab penuh atas seluruh reksa pastoral paroki, reksa iman jemaat, pelayanan sakramen, koordinasi seluruh bidang, serta memimpin arah kebijakan gerejawi Keuskupan Bandung di Paroki Dayeuhkolot."
     },
     {
@@ -41,7 +41,7 @@ export default function DewanPastoralComp({ dpp }: DewanPastoralCompProps) {
       subRole: "Ketua",
       category: "pimpinan",
       name: "RD. Antonius Jonmedi Tarigan",
-      imageUrl: "/pastor_antonius_1783397963388.jpg",
+      imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1783488770/pastor_vikaris_paroki_p32rqx.png",
       jobdesk: "Membantu Pastor Paroki dalam reksa pastoral harian paroki, pendampingan kelompok kategorial (kaum muda, BIA/BIR), pelaksanaan tugas sakramental liturgi, serta koordinasi umum bidang-bidang pastoral."
     }
   ];
