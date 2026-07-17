@@ -22,7 +22,7 @@ export default function AgendaParokiComp({ agenda }: AgendaParokiCompProps) {
   const categories = [
     { id: "semua", label: "Semua Warta" },
     { id: "agenda", label: "Agenda Kegiatan" },
-    { id: "katekese", label: "Katekese Pastor" },
+    { id: "katekese", label: "Katekese" },
     { id: "berita", label: "Berita Paroki" },
     { id: "pengumuman", label: "Pengumuman" }
   ];
@@ -45,7 +45,7 @@ export default function AgendaParokiComp({ agenda }: AgendaParokiCompProps) {
   const getCategoryLabel = (cat?: string) => {
     switch (cat) {
       case "agenda": return "Agenda Kegiatan";
-      case "katekese": return "Katekese Pastor";
+      case "katekese": return "Katekese";
       case "berita": return "Berita Paroki";
       case "pengumuman": return "Pengumuman";
       default: return "Agenda Kegiatan";
