@@ -1,0 +1,372 @@
+{
+  "announcements": [
+    {
+      "id": "ann-1",
+      "text": "di Gereja.",
+      "type": "info",
+      "active": true,
+      "createdAt": "2026-07-07T03:25:21.760Z"
+    }
+  ],
+  "agenda": [
+    {
+      "id": "ag-1",
+      "title": "Pelaksanaan Pelayanan Perubahan Data Administrasi Kependudukan & Catatan Sipil",
+      "content": "Paroki Santo Fransiskus Xaverius Dayeuhkolot bekerja sama dengan Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabupaten Bandung akan menyelenggarakan pelayanan langsung administrasi kependudukan (KTP, KK, Akta Lahir, dll.) bagi jemaat gereja pada hari Sabtu, 14 Maret 2026 mulai pukul 09.00 WIB hingga selesai. Silakan membawa dokumen asli dan fotokopi berkas pendukung Anda ke aula gereja.",
+      "date": "2026-03-14",
+      "imageUrl": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?auto=format&fit=crop&w=800&q=80",
+      "category": "pengumuman"
+    },
+    {
+      "id": "ag-2",
+      "title": "Pendaftaran Bina Iman Anak (BIA) & Bina Iman Remaja (BIR) Tahun Ajaran Baru",
+      "content": "Telah dibuka pendaftaran bagi anak-anak dan remaja Paroki Dayeuhkolot untuk bergabung dengan komunitas Bina Iman Anak (BIA) dan Bina Iman Remaja (BIR). Kegiatan pembinaan iman ini diadakan setiap hari Minggu setelah perayaan Ekaristi pagi. Orang tua diharapkan segera mendaftarkan putra-putrinya melalui e-formulir atau langsung ke koordinator BIA/BIR di pendopo gereja.",
+      "date": "2026-07-12",
+      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=800&q=80",
+      "category": "agenda"
+    },
+    {
+      "id": "ag-3",
+      "title": "Kerja Bakti Sosial Lingkungan dan Kebersihan Area Kompleks Gereja",
+      "content": "Dalam rangka menyambut pesta pelindung Paroki Santo Fransiskus Xaverius, Dewan Pastoral Paroki mengundang perwakilan umat dari seluruh Lingkungan untuk berpartisipasi dalam kegiatan kerja bakti kebersihan dan penghijauan area gereja. Harap membawa peralatan kebersihan masing-masing. Kegiatan dimulai pukul 08.00 WIB.",
+      "date": "2026-07-19",
+      "imageUrl": "https://images.unsplash.com/photo-1559027615-cd4451a9962f?auto=format&fit=crop&w=800&q=80",
+      "category": "berita"
+    },
+    {
+      "id": "ag-4",
+      "title": "Katekese Pastor: Memaknai Hidup Ekaristis dalam Keluarga Katolik",
+      "content": "Saudara-saudari terkasih, hidup berkeluarga adalah altar persembahan harian kita. Di dalam rumah tangga kita belajar memecah-mecah ego kita, seperti Kristus yang memecah Tubuh-Nya bagi kita. Hidup Ekaristis berarti kita siap menjadi berkat yang dipecah dan dibagikan bagi sesama anggota keluarga kita sehari-hari, melalui kesabaran, kerendahan hati, dan pengampunan tulus.",
+      "date": "2026-07-01",
+      "imageUrl": "https://images.unsplash.com/photo-1438211317305-6a2410a644b8?auto=format&fit=crop&w=800&q=80",
+      "category": "katekese"
+    }
+  ],
+  "dpp": [
+    {
+      "id": "dpp-1",
+      "role": "Pastor / Romo Paroki",
+      "category": "pimpinan",
+      "name": "RD. Stefanus Tanto Agustiana",
+      "imageUrl": "/pastor_stefanus_1783397946213.jpg"
+    },
+    {
+      "id": "dpp-2",
+      "role": "Pastor / Romo Vikaris",
+      "category": "pimpinan",
+      "name": "RD. Antonius Jonmedi Tarigan",
+      "imageUrl": "/pastor_antonius_1783397963388.jpg"
+    },
+    {
+      "id": "dpp-3",
+      "role": "WAKIL KETUA DPP 1",
+      "category": "wakil",
+      "name": "Drs. Ignasius Budi Prasetyo",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-4",
+      "role": "WAKIL KETUA DPP 2",
+      "category": "wakil",
+      "name": "Maria Clara Sutjiati",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-5",
+      "role": "SEKRETARIS 1",
+      "category": "sekretaris",
+      "name": "Yohanes Herryanto",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-6",
+      "role": "SEKRETARIS 2",
+      "category": "sekretaris",
+      "name": "Anastasia Maria",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-7",
+      "role": "BENDAHARA 1",
+      "category": "bendahara",
+      "name": "Elizabeth Setiawati",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-8",
+      "role": "Ketua Bidang Liturgi",
+      "category": "seksi",
+      "name": "Hendrikus Suwandi",
+      "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-9",
+      "role": "Ketua Bidang Persaudaraan",
+      "category": "seksi",
+      "name": "Bernadetta Tri Utami",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-10",
+      "role": "Ketua Bidang Keluarga",
+      "category": "seksi",
+      "name": "Andreas Wijaya & Maria Natalia",
+      "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-11",
+      "role": "Ketua Bidang Pelayanan",
+      "category": "seksi",
+      "name": "Agustinus Bambang",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-12",
+      "role": "Ketua Bidang Umum",
+      "category": "seksi",
+      "name": "Yoseph Setiawan",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80"
+    }
+  ],
+  "lingkungan": [
+    {
+      "id": "l-1",
+      "name": "Lingkungan Santo Fransiskus Asisi",
+      "leader": "Yulius Sukardi",
+      "phone": "081234567890",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Benediktus Anton",
+      "secretary": "Theresia Sulastri",
+      "treasurer": "Lucia Indah",
+      "kkCount": 42,
+      "groupImageUrl": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80",
+      "notes": "Lingkungan aktif di perbatasan Dayeuhkolot dengan jadwal doa rosario bergilir setiap bulan Mei dan Oktober, ibadat sabda berkala tiap hari Jumat pertama, serta keterlibatan aktif koor di Gereja Paroki."
+    },
+    {
+      "id": "l-2",
+      "name": "Lingkungan Santa Maria Regina",
+      "leader": "Robertus Triadi",
+      "phone": "081398765432",
+      "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Stefanus Setiadi",
+      "secretary": "Agnes Monica Sari",
+      "treasurer": "Cecilia Larasati",
+      "kkCount": 35,
+      "groupImageUrl": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80",
+      "notes": "Terkenal dengan semangat gotong royong yang tinggi dalam pelayanan paduan suara (koor) wilayah serta giat aksi bakti sosial peduli banjir tahunan Dayeuhkolot."
+    },
+    {
+      "id": "l-3",
+      "name": "Lingkungan Santo Yohanes Pembaptis",
+      "leader": "Fransiska Endah",
+      "phone": "085711223344",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Andreas Hermawan",
+      "secretary": "Bernadetta Shinta",
+      "treasurer": "Maria Yosephine",
+      "kkCount": 48,
+      "groupImageUrl": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?auto=format&fit=crop&w=800&q=80",
+      "notes": "Memiliki cakupan wilayah strategis di sekitar area kampus, sehingga banyak diperkuat oleh mahasiswa-mahasiswi Telkom University dan keluarga muda yang aktif bermusik gereja."
+    },
+    {
+      "id": "l-4",
+      "name": "Lingkungan Santo Petrus",
+      "leader": "Albertus Sugiarto",
+      "phone": "082144556677",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Aloysius Gunawan",
+      "secretary": "Christina Yeni",
+      "treasurer": "Elisabeth Ratna",
+      "kkCount": 51,
+      "groupImageUrl": "https://images.unsplash.com/photo-1464191308205-e1b6c55705a1?auto=format&fit=crop&w=800&q=80",
+      "notes": "Merupakan salah satu lingkungan terbesar dengan anggota KK terbanyak. Memiliki program andalan latihan koor intensif mingguan dan paguyuban persekutuan doa pasutri mandiri."
+    },
+    {
+      "id": "l-5",
+      "name": "Lingkungan Santa Teresa",
+      "leader": "Agnes Widya",
+      "phone": "081933445566",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Ignatius Wahyu",
+      "secretary": "Margaretha Lina",
+      "treasurer": "Clara Shanti",
+      "kkCount": 29,
+      "groupImageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+      "notes": "Sangat berdedikasi tinggi dalam melayani keindahan tata dekorasi altar gereja, kunjungan penghiburan rohani umat yang sakit, serta program bantuan beras kasih lansia."
+    },
+    {
+      "id": "l-6",
+      "name": "Lingkungan Santo Yosef",
+      "leader": "Benediktus Hartono",
+      "phone": "081122334455",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Yohanes Kris",
+      "secretary": "Maria Natalia",
+      "treasurer": "Anastasia Devi",
+      "kkCount": 38,
+      "groupImageUrl": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?auto=format&fit=crop&w=800&q=80",
+      "notes": "Terkenal dengan keaktifan bapak-bapak lingkungan dalam ronda keamanan bersama paroki, olahraga bulutangkis antarumat, serta katekese iman keluarga katolik."
+    },
+    {
+      "id": "l-7",
+      "name": "Lingkungan Santa Elisabeth",
+      "leader": "Theresia Retno",
+      "phone": "081223344556",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Stefanus Edi",
+      "secretary": "Maria Susan",
+      "treasurer": "Hanna Novita",
+      "kkCount": 33,
+      "groupImageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+      "notes": "Fokus pada pelayanan orang sakit, lansia, pembagian sembako, dan perkumpulan doa Ibu-Ibu paroki yang giat melaksanakan pembacaan Kitab Suci bersama."
+    },
+    {
+      "id": "l-8",
+      "name": "Lingkungan Santo Paulus",
+      "leader": "FX. Bambang Setiawan",
+      "phone": "081334455667",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Antonius Joko",
+      "secretary": "Lucia Melly",
+      "treasurer": "Agnes Linda",
+      "kkCount": 40,
+      "groupImageUrl": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80",
+      "notes": "Mengutamakan pendampingan iman bagi kalangan remaja dan anak-anak (BIA/BIR) serta aktif menginisiasi ziarah paroki tahunan ke berbagai goa Maria di Jawa Barat."
+    },
+    {
+      "id": "l-9",
+      "name": "Lingkungan Santa Bernadette",
+      "leader": "Yuliana Kartika",
+      "phone": "081445566778",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Hendrikus Hari",
+      "secretary": "Clara Dian",
+      "treasurer": "Elisabeth Nia",
+      "kkCount": 27,
+      "groupImageUrl": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80",
+      "notes": "Terkenal dengan kerukunan paguyuban rosario dan ibadat sabda malam yang rutin dihadiri keluarga muda untuk mempererat iman kristiani yang tangguh."
+    },
+    {
+      "id": "l-10",
+      "name": "Lingkungan Santo Agustinus",
+      "leader": "Ignasius Heri",
+      "phone": "081556677889",
+      "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Yohanes Guntur",
+      "secretary": "Anastasia Ririn",
+      "treasurer": "Cecilia Siska",
+      "kkCount": 45,
+      "groupImageUrl": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?auto=format&fit=crop&w=800&q=80",
+      "notes": "Aktif menyelenggarakan diskusi iman dan teologi praktis sederhana, melatih koor lingkungan, serta peduli dengan bantuan sosial pendidikan anak kurang mampu."
+    },
+    {
+      "id": "l-11",
+      "name": "Lingkungan Santa Clara",
+      "leader": "Lucia Tri Wahyuni",
+      "phone": "081667788990",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Andreas Danu",
+      "secretary": "Agnes Maria",
+      "treasurer": "Theresia Novi",
+      "kkCount": 31,
+      "groupImageUrl": "https://images.unsplash.com/photo-1464191308205-e1b6c55705a1?auto=format&fit=crop&w=800&q=80",
+      "notes": "Anggota lingkungan memiliki komitmen tinggi dalam menjaga kekompakan paduan suara dan giat mengadakan aksi kebersihan lingkungan kapel stasi terdekat."
+    },
+    {
+      "id": "l-12",
+      "name": "Lingkungan Santo Ignasius Loyola",
+      "leader": "Andreas Setiawan",
+      "phone": "081778899001",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Benediktus Surya",
+      "secretary": "Maria Veronika",
+      "treasurer": "Lucia Nita",
+      "kkCount": 36,
+      "groupImageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+      "notes": "Menghayati spiritualitas Ignasian dalam pelayanan, aktif dalam doa perenungan hening, pendampingan pasutri, serta pembinaan kader kepemimpinan kaum muda gereja."
+    },
+    {
+      "id": "l-13",
+      "name": "Lingkungan Santa Monika",
+      "leader": "Monica Sri Rahayu",
+      "phone": "081889900112",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "FX. Harianto",
+      "secretary": "Elisabeth Tina",
+      "treasurer": "Maria Susi",
+      "kkCount": 34,
+      "groupImageUrl": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?auto=format&fit=crop&w=800&q=80",
+      "notes": "Lingkungan yang hangat dengan fokus utama pada doa ibu untuk anak dan keluarga, aksi kepedulian sosial, serta kunjungan ke panti asuhan yatim piatu terdekat."
+    },
+    {
+      "id": "l-14",
+      "name": "Lingkungan Santo Stefanus",
+      "leader": "Stefanus Gunadi",
+      "phone": "081990011223",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Yohanes Budi",
+      "secretary": "Clara Mega",
+      "treasurer": "Anastasia Vera",
+      "kkCount": 39,
+      "groupImageUrl": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80",
+      "notes": "Sangat aktif dalam pelayanan liturgi (putra altar/misdinar dan lektor), pembacaan Kitab Suci bersama, serta mendukung penuh kegiatan sarana fisik gereja paroki."
+    },
+    {
+      "id": "l-15",
+      "name": "Lingkungan Santa Cecilia",
+      "leader": "Cecilia Indriati",
+      "phone": "081234123412",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "FX. Nugroho",
+      "secretary": "Bernadetta Rini",
+      "treasurer": "Maria Shanti",
+      "kkCount": 41,
+      "groupImageUrl": "https://images.unsplash.com/photo-151795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80",
+      "notes": "Pusat dari paduan suara handal di paroki. Rutin mengadakan latihan pemazmur dan kor, serta mengiringi perayaan ekaristi besar dengan penuh sukacita."
+    },
+    {
+      "id": "l-16",
+      "name": "Lingkungan Santo Andreas",
+      "leader": "Andreas Rudi",
+      "phone": "081345678912",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Yoseph Edy",
+      "secretary": "Agnes Yanti",
+      "treasurer": "Theresia Linda",
+      "kkCount": 30,
+      "groupImageUrl": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?auto=format&fit=crop&w=800&q=80",
+      "notes": "Memiliki kepedulian yang tinggi pada pelestarian lingkungan hidup dan asri di sekitar rumah warga serta aktif mendonorkan darah secara berkala dalam aksi sosial."
+    },
+    {
+      "id": "l-17",
+      "name": "Lingkungan Santa Agnes",
+      "leader": "Agnes Pratiwi",
+      "phone": "081987654321",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+      "viceLeader": "Aloysius Harry",
+      "secretary": "Maria Rosita",
+      "treasurer": "Elisabeth Eva",
+      "kkCount": 32,
+      "groupImageUrl": "https://images.unsplash.com/photo-1464191308205-e1b6c55705a1?auto=format&fit=crop&w=800&q=80",
+      "notes": "Lingkungan baru yang dipenuhi keluarga muda energik. Sangat aktif dalam pendampingan anak-anak, mengelola arisan sosial katolik, dan mengadakan doa bersama mingguan."
+    }
+  ],
+  "sacramentRegistrations": [],
+  "suggestions": [],
+  "dokumentasi": [
+    {
+      "id": "doc-1",
+      "title": "Minggu Paskah Pkl. 10.00 (05.04.2026)",
+      "date": "05.04.2026",
+      "googlePhotosUrl": "https://photos.app.goo.gl/mnX83sEbG9pJvrfa9",
+      "imageUrl": "/doc_paskah.jpg"
+    },
+    {
+      "id": "doc-2",
+      "title": "Sabtu Suci Pkl. 19.00 (04.04.2026)",
+      "date": "04.04.2026",
+      "googlePhotosUrl": "https://photos.app.goo.gl/pUoGvTTvWAwTqEYP6",
+      "imageUrl": "/doc_sabtusuci.jpg"
+    }
+  ]
+}
