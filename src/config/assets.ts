@@ -1,3 +1,3 @@
 export const ASSET_IMAGES = {
-  logoGereja: "/src/assets/images/logo_gereja_1783397929829.jpg",
+  logoGereja: "https://res.cloudinary.com/ugnqb757/image/upload/v1783493735/logo_gereja_rmohsf.png",
 };
