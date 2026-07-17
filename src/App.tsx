@@ -291,7 +291,7 @@ export default function App() {
           {/* Bottom Copyright line */}
           <div className="border-t border-[#E5E3DB] pt-8 flex flex-col sm:flex-row justify-between items-center text-[11px] text-[#7C7A74] gap-4">
             <p>&copy; 2026 Paroki Santo Fransiskus Xaverius Dayeuhkolot Bandung. All Rights Reserved.</p>
-            <p>Masa Bakti Keuskupan Bandung | Dikembangkan dengan Kasih & Pelayanan</p>
+            <p>Situs Website ini dikembangkan dengan Kasih & Pelayanan</p>
           </div>
 
         </div>
