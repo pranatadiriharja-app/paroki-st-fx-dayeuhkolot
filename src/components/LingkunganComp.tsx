@@ -295,7 +295,7 @@ export default function LingkunganComp({ lingkungan }: LingkunganCompProps) {
                   </p>
                   <div className="relative h-64 w-full rounded-xl overflow-hidden border border-[#E5E3DB] shadow-inner bg-slate-100 group">
                     <img 
-                      src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1200&q=80" 
+                      src="https://res.cloudinary.com/ugnqb757/image/upload/v1784269930/ererere_y1era8.png" 
                       alt="Peta Wilayah Lingkungan"
                       className="w-full h-full object-cover grayscale opacity-90 group-hover:grayscale-0 transition-all duration-500"
                     />
