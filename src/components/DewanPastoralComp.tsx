@@ -61,8 +61,8 @@ export default function DewanPastoralComp({ dpp }: DewanPastoralCompProps) {
       role: "WAKIL KETUA DPP 2",
       subRole: "Dewan Pengurus Harian",
       category: "wakil",
-      name: "Maria Clara Sutjiati",
-      imageUrl: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+      name: "Endi",
+      imageUrl: "https://res.cloudinary.com/ugnqb757/image/upload/v1784268293/2222_yafi03.png",
       jobdesk: "Mengkoordinasikan program kerja bidang Pelayanan dan Umum. Mengawasi pemeliharaan kompleks fisik gereja, reksa sosial umat kurang mampu, serta perizinan sarana paroki."
     }
   ];
