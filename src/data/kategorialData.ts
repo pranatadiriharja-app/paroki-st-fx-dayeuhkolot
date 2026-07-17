@@ -134,7 +134,7 @@ export const KATEGORIAL_DATA: KategorialGroup[] = [
   },
     {
     id: "koor",
-    name: "Paduan Santo Fransiskus Xaverius (Koor Paroki)",
+    name: "Paduan Suara Santo Fransiskus Xaverius (Koor Paroki)",
     category: "Liturgi",
     shortDesc: "Melayani keindahan dan kemuliaan liturgi perayaan ekaristi melalui keindahan musik dan pujian.",
     description: "Cantate Domino adalah paduan suara utama paroki yang bertugas menyanyikan lagu-lagu liturgis bermutu tinggi, melatih pemazmur-pemazmur handal, serta mengiringi perayaan ekaristi besar gereja dengan harmoni suara yang memukau.",
